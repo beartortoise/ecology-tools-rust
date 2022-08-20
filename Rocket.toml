@@ -1,0 +1,2 @@
+[dev-local]
+tls = { certs = "certs/MyCertificate.crt", key = "certs/MyKey.key" }
